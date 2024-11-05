@@ -1,0 +1,5 @@
+It was lovely to come back to the FEM challenges after going down an amazing journey of learning REACT and Tailwind CSS. First I tried setting this up in React but it quickly made no sense with there being no JS and the <Cards/> were not consistent enough to make it work.
+
+I finished this challenge on my own and then as usual I checked out YouTube to see if there was a finished one posted and there was so I watched it. It was from coding in public - thanks Chris https://www.youtube.com/watch?v=qvb2JRDecoA&t=568s . As always I learned a few things so then I went back over my code to rejuvenate it with my new knowledge. The biggest thing I learned was Utopia (basically preset variables to put in your :root for spacing and font sizes to help make your website more responsive): https://utopia.fyi/type/calculator/?c=320,18,1.2,1440,20,1.25,5,2,&s=0.75%7C0.5%7C0.25,1.5%7C2%7C3%7C4%7C6,s-l&g=s,l,xl,12
+
+I have to say I don't really like the design at 1440px as it cuts off some of the images but I thought I had better make it as close to the original design as possible.
